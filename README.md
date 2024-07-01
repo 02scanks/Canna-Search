@@ -7,8 +7,11 @@ Canna-Search is a marijuana strain database and documenting software built using
 Features:
 
 Login System: Secure authentication with admin credentials to manage the database.
+
 Data Storage: Store and manage information about marijuana strains including names, ratings, descriptions, and images.
+
 Data Retrieval: Retrieve stored data based on specified criteria, enhancing usability and accessibility.
+
 Modern UI: Designed with WinForms to provide a clean, intuitive interface for easy navigation and interaction.
 
 Installation:
